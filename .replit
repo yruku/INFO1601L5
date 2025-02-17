@@ -1,6 +1,6 @@
 
 hidden = [".config"]
-modules = ["nix", "nodejs-20"]
+modules = ["nodejs-20", "nix"]
 run = "node index.js"
 
 [[hints]]
